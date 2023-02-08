@@ -1,0 +1,381 @@
+/* screen - email-template-comic-con-jan-2023 */
+
+.email-template-comic-con-jan-2023 {
+  align-items: flex-start;
+  background-color: var(--black-haze);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 1806.21px;
+  min-width: 450px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.email-template-comic-con-jan-2023 .email-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px 32px;
+}
+
+.email-template-comic-con-jan-2023 .frame-2392 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  overflow: hidden;
+  width: fit-content;
+}
+
+.email-template-comic-con-jan-2023 .ziina-logo {
+  height: 18.04px;
+  min-width: 74px;
+  position: relative;
+}
+
+.email-template-comic-con-jan-2023 .ziina-logo-1 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.email-template-comic-con-jan-2023 .ziina-logo-2 {
+  height: 12px;
+  left: 24px;
+  position: absolute;
+  top: 3px;
+  width: 49px;
+}
+
+.email-template-comic-con-jan-2023 .vector {
+  height: 32.21px;
+  min-width: 1.16px;
+}
+
+.email-template-comic-con-jan-2023 .frame {
+  height: 32.21px;
+  min-width: 178.74px;
+}
+
+.email-template-comic-con-jan-2023 .body-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 40px;
+  display: flex;
+  flex-direction: column;
+  padding: 32px 32px 8px;
+}
+
+.email-template-comic-con-jan-2023 .image-block {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+}
+
+.email-template-comic-con-jan-2023 .image {
+  height: 228px;
+  min-width: 386px;
+}
+
+.email-template-comic-con-jan-2023 .x-block {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+}
+
+.email-template-comic-con-jan-2023 .body-2 {
+  align-self: stretch;
+  color: var(--black);
+  font-family: var(--font-family-gt_america-extendedmedium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: -1.02px;
+  line-height: 40px;
+  margin-top: -1.00px;
+}
+
+.email-template-comic-con-jan-2023 .body-3 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.email-template-comic-con-jan-2023 .body {
+  align-self: stretch;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.email-template-comic-con-jan-2023 .frame-2434 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.email-template-comic-con-jan-2023 .transactionscard {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--white);
+  border-radius: 30px;
+  box-shadow: 0px 20px 80px #00000012;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow: hidden;
+  padding: 24px;
+}
+
+.email-template-comic-con-jan-2023 .kittransaction-master {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+}
+
+.email-template-comic-con-jan-2023 .profilesavatar {
+  height: 48px;
+  min-width: 48px;
+}
+
+.email-template-comic-con-jan-2023 .kitavatar-master {
+  align-items: flex-start;
+  background-color: var(--electric-violet);
+  border-radius: 24px;
+  display: flex;
+  height: 48px;
+  overflow: hidden;
+  padding: 13.3px 0;
+  width: 48px;
+}
+
+.email-template-comic-con-jan-2023 .monogram {
+  height: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 48px;
+}
+
+.email-template-comic-con-jan-2023 .right {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.email-template-comic-con-jan-2023 .transaction {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  font-family: var(--font-family-gt_america-extendedmedium);
+}
+
+.email-template-comic-con-jan-2023 .name {
+  font-family: var(--font-family-gt_america-extendedmedium);
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+}
+
+.email-template-comic-con-jan-2023 .span-1 {
+  text-decoration: underline;
+}
+
+.email-template-comic-con-jan-2023 .description {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 6px;
+}
+
+.email-template-comic-con-jan-2023 .description-1 {
+  flex: 1;
+  letter-spacing: -0.10px;
+  line-height: 20px;
+  margin-top: -1.00px;
+}
+
+.email-template-comic-con-jan-2023 .iconchevron-right {
+  background-image: url(../img/icon-chevronright.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  min-width: 32px;
+}
+
+.email-template-comic-con-jan-2023 .body-block {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px 0px;
+}
+
+.email-template-comic-con-jan-2023 .body-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.email-template-comic-con-jan-2023 .image-block-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 232px;
+  padding: 0px 0px 16px;
+  width: fit-content;
+}
+
+.email-template-comic-con-jan-2023 .frame-2413 {
+  background-image: url(../img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 216px;
+  min-width: 386px;
+  position: relative;
+}
+
+.email-template-comic-con-jan-2023 .icon-play {
+  height: 64px;
+  left: 161px;
+  position: absolute;
+  top: 76px;
+  width: 64px;
+}
+
+.email-template-comic-con-jan-2023 .cta {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 0px 24px;
+}
+
+.email-template-comic-con-jan-2023 .frame-2433 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+}
+
+.email-template-comic-con-jan-2023 .button {
+  align-items: center;
+  background-color: var(--black-3);
+  border-radius: 100px;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: center;
+  padding: 18px 32px;
+}
+
+.email-template-comic-con-jan-2023 .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--black-haze);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 32px;
+}
+
+.email-template-comic-con-jan-2023 .social {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+}
+
+.email-template-comic-con-jan-2023 .button-instagram {
+  padding: 10px 10px 10px 0px;
+}
+
+.email-template-comic-con-jan-2023 .icon-instagram {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .button-1 {
+  padding: 10px;
+}
+
+.email-template-comic-con-jan-2023 .icon-linkedin {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .icon-twitter {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .icon-facebook {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .dribbble-negative {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .button-medium {
+  padding: 10px 0px 10px 10px;
+}
+
+.email-template-comic-con-jan-2023 .medium-negative {
+  height: 24px;
+  min-width: 24px;
+}
+
+.email-template-comic-con-jan-2023 .divider {
+  align-self: stretch;
+  height: 1px;
+  min-width: 386px;
+  object-fit: cover;
+}
+
+.email-template-comic-con-jan-2023 .copyright-logo {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 0px;
+}
+
+.email-template-comic-con-jan-2023 .footer-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  width: fit-content;
+}
+
+.email-template-comic-con-jan-2023 .button-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  width: fit-content;
+}
+
+.newFont {
+  font-family: var(--font-family-gt_america-medium);
+}
