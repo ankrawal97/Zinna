@@ -1,0 +1,73 @@
+:root { 
+  --black: #000000;
+  --black-2: #00000063;
+  --black-3: #0000000a;
+  --black-haze: #f7f7f7;
+  --electric-violet: #9b28eb;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 16px;
+  --font-size-s: 15px;
+  --font-size-xl: 34px;
+ 
+  --font-family-gt_america-extendedbold: "GT America-ExtendedBold", Helvetica;
+  --font-family-gt_america-extendedmedium: "GT America-ExtendedMedium", Helvetica;
+  --font-family-gt_america-medium: "GT America-Medium", Helvetica;
+  --font-family-gt_america-regular: "GT America-Regular", Helvetica;
+}
+.gtamerica-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-gt_america-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gtamerica-regular-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-gt_america-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gtamerica-extended-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-gt_america-extendedmedium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gtamerica-regular-normal-black-16px-2 {
+  color: var(--black-2);
+  font-family: var(--font-family-gt_america-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gtamerica-extended-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-gt_america-extendedmedium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gtamerica-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-gt_america-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gtamerica-extended-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-gt_america-extendedmedium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
